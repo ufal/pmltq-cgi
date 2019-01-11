@@ -4,10 +4,13 @@ Revision history for {{$dist->name}}
  [API CHANGES]
 
  [BUG FIXES]
+ - increase version in order to fix cpan indexing
 
  [DOCUMENTATION]
 
  [ENHANCEMENTS]
+
+2.0.0
 
 0.0.1
  - Released: 2019-01-10 10:24:31 UTC
